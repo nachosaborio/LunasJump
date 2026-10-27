@@ -1,5 +1,13 @@
 # 🌙 Luna's Jump 🐾
 
+![GameMaker](https://img.shields.io/badge/GameMaker-GML-8A2BE2?logo=gamemaker&logoColor=white)
+![Language](https://img.shields.io/badge/language-GML-5C4EE5)
+![Platform](https://img.shields.io/badge/platform-HTML5%20%7C%20Android-1f6feb)
+![Genre](https://img.shields.io/badge/genre-Platformer-ff69b4)
+![Status](https://img.shields.io/badge/status-Released%20v1.0-success)
+![Rating](https://img.shields.io/badge/itch.io-%E2%98%85%205.0%2F5-fa5c5c?logo=itchdotio&logoColor=white)
+[![Play on itch.io](https://img.shields.io/badge/%E2%96%B6%20Play-itch.io-FA5C5C?logo=itchdotio&logoColor=white)](https://nachodeveloper.itch.io/lunas-jump)
+
 A vertical **infinite-platformer** (Doodle Jump–style) built in **GameMaker (GML)** and released on **itch.io** for **HTML5 and Android**. Made as a fan game for **Luna Rurine**, a vtuber from the (now-defunct) agency **Wactor**.
 
 > ⭐ Rated 5.0/5 on itch.io · Published 2022 · Playable in-browser and as an Android APK.
